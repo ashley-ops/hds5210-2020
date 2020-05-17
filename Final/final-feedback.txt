@@ -1,0 +1,18 @@
+PART 1:
+Nice work
+
+PART 2:
+Very good
+
+PART 3:
+One little mistake in hour use of the mo_locations variable name instead of the locations parameter.
+Otherwise, nice work.
+
+PART 4:
+Great work.  I'm not sure why your assertions are sligntly off.  Full credit.
+
+PART 5:
+Nice work.
+
+Part 6:
+Good obvservations.
